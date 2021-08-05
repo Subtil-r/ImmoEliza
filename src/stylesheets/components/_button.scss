@@ -1,0 +1,33 @@
+// -----------------------------------------------------------------------------
+// This file contains all styles related to the button component.
+// -----------------------------------------------------------------------------
+
+.action-button {
+	font: inherit;
+	font-size: 1.25rem;
+	font-variant: small-caps;
+	font-weight: bolder !important;
+	letter-spacing: 0.25rem;;
+	margin-top: 3rem;
+	padding: 1.5rem;
+	width: 100%;
+	font-weight: 500;
+	background-color: none !important;
+	border: 3px solid#18A558 !important;
+	border-radius: 6px;
+	color: #18A558;
+	border: 0;
+	transition: all .25s;
+	&:focus {
+		outline: 0;
+	}
+	&:hover {
+		background-color: #18A558;
+		color: #FFF;
+	}
+	@include respond-to(large) {
+		width: 45%;
+		margin-top: 5px;
+		}
+}
+

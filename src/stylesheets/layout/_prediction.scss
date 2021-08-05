@@ -1,0 +1,34 @@
+.prediction {
+  margin-bottom: 1rem;
+  @include respond-to(large) { 
+    margin-top: 768px;
+    margin-left: 70px;
+    
+   }
+  fieldset {
+    border: 3px solid black;
+    text-align: center;
+    @include respond-to(medium) { 
+      width: 100%;
+     }
+    @include respond-to(large) { 
+      height: 100px;
+     }
+  }
+  legend {
+    margin: 0 auto;
+    padding: 0 1rem;
+  }
+  h1 {
+    color: #18A558;
+    @include respond-to(medium) { 
+      font-size: 3rem;
+     }
+    @include respond-to(large) {
+      width: 300px; 
+      font-size: 2.5rem;
+      line-height: 0;
+     }
+  }
+  
+}

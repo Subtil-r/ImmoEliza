@@ -1,0 +1,41 @@
+// -----------------------------------------------------------------------------
+// This file contains all styles related to the header of the site/application.
+// -----------------------------------------------------------------------------
+.header-style {
+  max-width: 425px;
+  color: #18A558;
+  text-align: center;
+  border: 3px solid #18A558;
+  margin: 1rem;
+  letter-spacing: 0.25rem;
+  @include respond-to(medium) { 
+    font-size: 1.5rem;
+    justify-content: center;
+  }
+}
+
+.hs-lg {
+  @include respond-to(large) { 
+    height: 0;
+    line-height: 0;
+    visibility: hidden;
+  }
+}
+
+.header-lg {
+ display: none;
+ @include respond-to(large) { 
+  display: inline-block;
+  width: 625px;
+  height:100px;
+  color: #18A558;
+  text-align: center;
+  border: 3px solid #18A558;
+  margin: 1rem;
+  letter-spacing: 0.25rem;
+  line-height: 2rem;
+  border-radius: 10px;
+  margin-top: -0.5px;
+  
+}
+}
