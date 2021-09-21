@@ -1,71 +1,28 @@
-# Getting Started with Create React App
+# <img src="https://cdn-icons-png.flaticon.com/512/686/686589.png" width="35">&nbsp; ImmoEliza
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+In this website, the user fills up a form and accordingly to the sent data, it returns a immovel's price assesment.
 
-## Available Scripts
+___
 
-In the project directory, you can run:
 
-### `npm start`
+# <img src="https://cdn-icons-png.flaticon.com/128/4489/4489661.png" width="35">&nbsp; Involved Tech
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### ![ImmoEliza link](https://immoel.herokuapp.com)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+### <b>Platform:</b> <i>Mobile</i> | <i>Tablet</i> | <i>Desktop</i>
+<br/>
 
-### `npm test`
+![](https://img.shields.io/badge/Tools-WinTerminal-informational?style=flat&logo=windowsterminal&color=4D4D4D)
+![](https://img.shields.io/badge/Tools-Ubuntu-informational?style=flat&logo=ubuntu&color=E95420)
+![](https://img.shields.io/badge/Tools-VSCode-informational?style=flat&logo=visualstudiocode&color=007ACC)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&color=61DAFB)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![](https://img.shields.io/badge/Tool-Node.js-informational?style=flat&logo=node.js&color=339933)
+![](https://img.shields.io/badge/Tool-NPM-informational?style=flat&logo=npm&color=CB3837)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=sass&color=CC6699)
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# flask
+![](https://img.shields.io/badge/Deploy-Heroku-informational?style=flat&logo=heroku&color=430098)
