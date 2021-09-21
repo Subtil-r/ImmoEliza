@@ -1,4 +1,4 @@
-# <img src="https://cdn-icons-png.flaticon.com/512/686/686589.png" width="35">&nbsp; ImmoEliza
+# <img src="https://cdn-icons-png.flaticon.com/512/845/845022.png" width="35">&nbsp; ImmoEliza
 
 In this website, the user fills up a form and accordingly to the sent data, it returns a immovel's price assesment.
 
